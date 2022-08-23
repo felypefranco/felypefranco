@@ -1,0 +1,6 @@
+[submodule "themes/ink-free"]
+	path = themes/ink-free
+	url = https://github.com/chollinger93/ink-free.git
+[submodule "public"]
+	path = public
+	url = https://github.com/felypefranco/felypefranco.github.io.git

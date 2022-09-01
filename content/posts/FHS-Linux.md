@@ -7,34 +7,50 @@ author: "Felype Franco"
 
 Vamos entender basicamente a importância de cada diretório que compõe o sistema.
 
-**RAIZ OU /**:Diretório central, tudo do sistema está na raiz. Este diretório é como se fosse o C: do Windows.|---|
-**/bin**:Binário - Diretório onde fica os executáveis.|---|
+**RAIZ OU /**:Diretório central, tudo do sistema está na raiz. Este diretório é como se fosse o C: do Windows.
+|---|
 
-**/boot**:Diretório onde fica os arquivos de inicialização do sistema, como por exemplo o kernel linux.|---|
+**/bin**:Binário - Diretório onde fica os executáveis.
+|---|
+
+**/boot**:Diretório onde fica os arquivos de inicialização do sistema, como por exemplo o kernel linux.
+|---|
 
 **/dev**:Device ou Dispositivo - Diretório onde fica os dispostivos do sistema, como por exemplo o HD.
 |---|
-**/etc**:Diretório onde fica os arquivos de configuração.|---|
 
-**/home**:Diretório onde fica os arquivos do usuário.|---|
+**/etc**:Diretório onde fica os arquivos de configuração.
+|---|
 
-**/lib**:Diretório onde fica as bibliotecas do sistema.|---|
+**/home**:Diretório onde fica os arquivos do usuário.
+|---|
 
-**/media**:Diretório de montagem, como por exemplo montagem de um pendrive.|---|
+**/lib**:Diretório onde fica as bibliotecas do sistema.
+|---|
 
-**/mnt**:Diretório de montagem temporária.|---|
+**/media**:Diretório de montagem, como por exemplo montagem de um pendrive.
+|---|
 
-**/opt**:Diretório opcional, geralmmente para instalar pacotes externos.|---|
+**/mnt**:Diretório de montagem temporária.
+|---|
 
-**/root**:Armazena os diretórios do usuário root. É basicamente o /home do usuário root.|---|
+**/opt**:Diretório opcional, geralmmente para instalar pacotes externos.
+|---|
 
-**/sbin**:Binários do sistema - são os binários de utilização do usuário root.|---|
+**/root**:Armazena os diretórios do usuário root. É basicamente o /home do usuário root.
+|---|
 
-**/srv**:Service - diretório para os serviços, como por exemplo um serviço ftp.|---|
+**/sbin**:Binários do sistema - são os binários de utilização do usuário root.
+|---|
 
-**/tmp**:Diretório de arquivos temporário.|---|
+**/srv**:Service - diretório para os serviços, como por exemplo um serviço ftp.
+|---|
 
-**/usr**:Diretoŕio focado apenas nos usuários.|---|
+**/tmp**:Diretório de arquivos temporário.
+|---|
 
-**/var**:Diretório de variáveis - fica armazenado nesse diretório Cache, Log, Spool (impressão) e tmp`.|---|
+**/usr**:Diretoŕio focado apenas nos usuários.
+|---|
+
+**/var**:Diretório de variáveis - fica armazenado nesse diretório Cache, Log, Spool (impressão) e tmp.|---|
  

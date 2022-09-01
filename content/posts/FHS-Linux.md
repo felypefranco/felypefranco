@@ -53,7 +53,4 @@ Vamos entender basicamente a importância de cada diretório que compõe o siste
 |---|
 
 **/var**:Diretório de variáveis - fica armazenado nesse diretório Cache, Log, Spool (impressão) e tmp.
-
 |---|
-
- 

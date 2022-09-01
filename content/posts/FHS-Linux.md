@@ -1,12 +1,12 @@
 ---
 title: "Estrutura de diretórios do Linux (FHS)"
 date: 2022-08-23T12:58:13-03:00
-author: "Felype Franco"
+# author: "Felype Franco"
 ---
-# Sistema de arquivos do Linux
-**RAIZ OU /**:Diretório central, tudo do sistema está na raiz. Este direito é como se fosse o C: do Windows.
+# Compreendendo o sistema de arquivos do Linux
+**RAIZ OU /**:Diretório central, tudo do sistema está na raiz. Este diretório é como se fosse o C: do Windows.
 
-**/bin**:Binário - Diretório onde fica os executaveis.
+**/bin**:Binário - Diretório onde fica os executáveis.
 
 **/boot**:Diretório onde fica os arquivos de inicialização do sistema, como por exemplo o kernel linux.
 
@@ -18,15 +18,15 @@ author: "Felype Franco"
 
 **/lib**:Diretório onde fica as bibliotecas do sistema.
 
-**/media**:Diretório de montagem, como por exemplo a montagem de um pendrive.
+**/media**:Diretório de montagem, como por exemplo montagem de um pendrive.
 
-**/mnt**:Diretório de montagem temporaria.
+**/mnt**:Diretório de montagem temporária.
 
 **/opt**:Diretório opcional, geralmmente para instalar pacotes externos.
 
-**/root**:Armazena os diretórios do usuário root.
+**/root**:Armazena os diretórios do usuário root. É basicamente o /home do usuário root.
 
-**/sbin**:Binários do sistema - são os binários que o usuário root utiliza.
+**/sbin**:Binários do sistema - são os binários de utilização do usuário root.
 
 **/srv**:Service - diretório para os serviços, como por exemplo um serviço ftp.
 

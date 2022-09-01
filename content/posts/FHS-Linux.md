@@ -3,10 +3,10 @@ title: "Estrutura de diretórios do Linux (FHS)"
 date: 2022-08-23T12:58:13-03:00
 author: "Felype Franco"
 ---
-# `Compreendendo o sistema de arquivos do Linux`
+## `Compreendendo o sistema de arquivos do Linux`
 
 Vamos entender basicamente a importância de cada diretório que compõe o sistema.
-
+|---|
 **RAIZ OU /**:Diretório central, tudo do sistema está na raiz. Este diretório é como se fosse o C: do Windows.
 
 **/bin**:Binário - Diretório onde fica os executáveis.

@@ -3,8 +3,11 @@ title: "Estrutura de diretórios do Linux (FHS)"
 date: 2022-08-23T12:58:13-03:00
 author: "Felype Franco"
 ---
-# Compreendendo o sistema de arquivos do Linux
-`**RAIZ OU /**:Diretório central, tudo do sistema está na raiz. Este diretório é como se fosse o C: do Windows.
+# `Compreendendo o sistema de arquivos do Linux`
+
+Vamos entender basicamente a importância de cada diretório que compõe o sistema.
+
+**RAIZ OU /**:Diretório central, tudo do sistema está na raiz. Este diretório é como se fosse o C: do Windows.
 
 **/bin**:Binário - Diretório onde fica os executáveis.
 
@@ -34,4 +37,4 @@ author: "Felype Franco"
 
 **/usr**:Diretoŕio focado apenas nos usuários.
 
-**/var**:Diretório de variáveis - fica armazenado nesse diretório Cache, Log, Spool (impressão) e tmp.` 
+**/var**:Diretório de variáveis - fica armazenado nesse diretório Cache, Log, Spool (impressão) e tmp`. 
